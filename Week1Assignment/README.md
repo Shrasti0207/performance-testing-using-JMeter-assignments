@@ -10,7 +10,7 @@ To perform load testing on a public REST API using Apache JMeter.
 - Total Requests: 20
 
 ## API Tested
-GET https://restful-api.dev/
+GET https://api.restful-api.dev/objects
 
 ## Listeners Used
 - View Results Tree
@@ -18,10 +18,10 @@ GET https://restful-api.dev/
 - Aggregate Report
 
 ## Observations
-- Average Response Time: The average response time observed during the test execution was 636 ms.
-- P90: 90% of the requests were completed within 1181 ms.
-- P95: 95% of the requests were completed within 1535 ms.
-- Throughput: The achieved throughput was approximately 2.8 requests per second.
+- Average Response Time: The average response time observed during the test execution was 927 ms.
+- P90: 90% of the requests were completed within 2124 ms.
+- P95: 95% of the requests were completed within 2189 ms.
+- Throughput: The achieved throughput was approximately 1.7 requests per second.
 - Error %: No errors were observed during the test execution, and the error rate remained 0%.
 
 ## Screenshots
@@ -48,3 +48,6 @@ GET https://restful-api.dev/
 ![View Results Tree Response Data](Screenshots/ViewResultsTreeResponseData.png)
 
 ![View Results Tree Sampler Result](Screenshots/ViewResultsTreeSamplerResult.png)
+
+### Execute the test in GUI Mode
+![Execution](Screenshots/GUIExecution.gif)

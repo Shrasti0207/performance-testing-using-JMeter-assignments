@@ -50,4 +50,4 @@ GET https://api.restful-api.dev/objects
 ![View Results Tree Sampler Result](Screenshots/ViewResultsTreeSamplerResult.png)
 
 ### Execute the test in GUI Mode
-![Execution](Screenshots/GUIExecution.mp4)
+https://github.com/user-attachments/assets/df3252c3-a0ba-42ba-b680-1ced647be414

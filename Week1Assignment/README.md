@@ -46,4 +46,5 @@ GET https://restful-api.dev/
 
 ### View Results Tree
 ![View Results Tree Response Data](Screenshots/ViewResultsTreeResponseData.png)
+
 ![View Results Tree Sampler Result](Screenshots/ViewResultsTreeSamplerResult.png)
